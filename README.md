@@ -38,3 +38,9 @@ Azure Monitor and Log Analytics 📈: For monitoring, logging, and alerting.
 Architecture Diagram:
 
 ![image](https://github.com/user-attachments/assets/abed4fdd-d887-4cc8-b2bf-992bece4b890)
+
+
+Visualization and SQL Queries
+This data once loaded in Data Lake Storage Gen 2 needs to transformed using SQL and then needs to be visuzalized. 
+
+For this here is the file with SQL Queries:
